@@ -1,0 +1,10 @@
+section,body,main,ul,li,div,p,span{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root{
+    --text-color: #FFFF;
+}

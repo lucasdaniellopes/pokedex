@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right, rgb(189, 247, 181), rgb(245, 170, 100));
+}
+
+header{
+    text-align: center;
+    color: var(--text-color);
+    
+}
